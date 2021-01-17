@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there, I'm Vu Van Duy
 
 
-### 💻 &nbsp;About Me 
+### &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Software Engineering at Duy Tan University from Da Nang, Viet Nam.
@@ -19,16 +19,16 @@
   ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-### Data system
+### &nbsp;Data system
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-### Version control
+### &nbsp;Version control
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-### Editor
+### &nbsp;Editor
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-##  🤝🏻 &nbsp;Connect with Me
+## &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.facebook.com/vuvanduy1311"><img src="https://nutrientsmdvn.com/image/catalog/nutrient/facebook.png" width="100" height="50"/></a>
