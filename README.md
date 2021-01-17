@@ -7,4 +7,4 @@
 <hr>
 
 ### Connect with me
-![GitHub Logo](/images/logo.png)Format: ![Alt Text](url)
+![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzrVk9vyI_gmElEsSHhmYPhJiuPbjpUmvcw&usqp=CAU)Format: ![Alt Text](url)
