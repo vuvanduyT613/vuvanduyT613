@@ -1,4 +1,4 @@
-### Hi there , I'm Cameron # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" 
+### Hi there , I'm Vu Van Duy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" 
 
 ### 💻 &nbsp;About Me 
 
