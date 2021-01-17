@@ -7,4 +7,4 @@
 <hr>
 
 ### Connect with me
-![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzrVk9vyI_gmElEsSHhmYPhJiuPbjpUmvcw&usqp=CAU)![Alt Text](https://www.facebook.com/vuvanduy1311)
+![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzrVk9vyI_gmElEsSHhmYPhJiuPbjpUmvcw&usqp=CAU)!(https://www.facebook.com/vuvanduy1311)
