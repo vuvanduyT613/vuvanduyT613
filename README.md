@@ -6,8 +6,8 @@
 </ul>
 
 ### Connect with me
-<ul style="display: flex">
-  <li>a</li>
-  <li>b</li>
-  <li>c</li>
-</ul>
+<div style="display: flex">
+  <p>a</p>
+  <p>b</p>
+  <p>c</p>
+</div>
