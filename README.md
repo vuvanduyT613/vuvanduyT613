@@ -1,5 +1,8 @@
 ### Hi there, I'm Vu Van Duy 👋
-🔭 I’m currently working on 
+<hr>
+<ul>
+  <li>🔭 I’m currently working on</li>
+ </ul>
 <!--
 **vuvanduyT613/vuvanduyT613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
