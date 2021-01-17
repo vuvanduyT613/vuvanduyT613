@@ -8,6 +8,6 @@
 
 ### Connect with me
 <a href="https://www.facebook.com/vuvanduy1311">
-<image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzrVk9vyI_gmElEsSHhmYPhJiuPbjpUmvcw&usqp=CAU" style="width: 50px; height: 50px"></image>
+<image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzrVk9vyI_gmElEsSHhmYPhJiuPbjpUmvcw&usqp=CAU" width="50" height="50" ></image>
 <a>
   
