@@ -17,7 +17,7 @@ width="35" height="30"></image>
 <a href="https://twitter.com/VUVANDU91658674">
 <image src="https://bankimooncentre.org/wp-content/uploads/2020/05/twitter-icon-square-logo-108D17D373-seeklogo.com_.png" width="35" height="30" ></image>
 <a>
-<a href="https://twitter.com/VUVANDU91658674">
+<a href="vu.van.duy.239@gmail.com">
 <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png" \
 width="35" height="30" ></image>
 <a>
