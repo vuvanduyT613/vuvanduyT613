@@ -8,5 +8,5 @@
 
 ### Connect with me
 
-[![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truongpd.doublenine@gmail.com)
+[![Gmail](https://cdn.tgdd.vn/Files/2020/05/16/1255811/huong-dan-cach-tao-chu-ky-gmail-tren-dien-thoai-va-17.jpg)
 
