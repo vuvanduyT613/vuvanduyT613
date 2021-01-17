@@ -8,5 +8,5 @@
 
 ### Connect with me
 
-[![Gmail](https://cdn.tgdd.vn/Files/2020/05/16/1255811/huong-dan-cach-tao-chu-ky-gmail-tren-dien-thoai-va-17.jpg)
+[![Gmail](https://cdn.tgdd.vn/Files/2020/05/16/1255811/huong-dan-cach-tao-chu-ky-gmail-tren-dien-thoai-va-17.jpg)]
 
