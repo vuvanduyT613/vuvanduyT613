@@ -25,25 +25,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-## Latest Articles
-<!-- BLOG-POST-LIST:START -->
-- [Nodejs Microservices](https://dev.to/cdthomp1/nodejs-microservices-jgh)
-- [Help With Mongoose](https://dev.to/cdthomp1/help-with-mongoose-2jp7)
-- [Open Source Opportunity!](https://dev.to/cdthomp1/open-source-opportunity-16ol)
-- [A Case for Serverless](https://dev.to/cdthomp1/a-case-for-serverless-5da7)
-- [Create your own NPM Card! Part 2](https://dev.to/cdthomp1/create-your-own-npm-card-part-2-3651)
-<!-- BLOG-POST-LIST:END -->
-
-## My Stats
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdthomp1&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
-
-
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
