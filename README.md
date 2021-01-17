@@ -19,7 +19,7 @@
   ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-### &nbsp;Data system
+### &nbsp;System Database
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ### &nbsp;Version control
