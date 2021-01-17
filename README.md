@@ -7,5 +7,4 @@
 <hr>
 
 ### Connect with me
-<div>
-</div>
+![GitHub Logo](/images/logo.png)Format: ![Alt Text](url)
