@@ -31,9 +31,8 @@
 ## &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.facebook.com/vuvanduy1311"><img src="https://nutrientsmdvn.com/image/catalog/nutrient/facebook.png" width="100" height="45"/></a>
-<a href="https://twitter.com/VUVANDU91658674"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDuK2ZQhFCRpTq1kf42lVLoxOVfhTeIdansQ&usqp=CAU"/ width="100" height="45" ></a>
-<a href="mailto:vu.van.duy239@gamil.com"><img src="https://cdn.tgdd.vn/Files/2020/05/16/1255811/huong-dan-cach-tao-chu-ky-gmail-tren-dien-thoai-va-17.jpg"/ width="100" height="45" ></a>
+
+[![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vu.van.duy239@gmail.com)
 
 
 
