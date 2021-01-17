@@ -28,7 +28,7 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.facebook.com/vuvanduy1311"><img src="https://drive.google.com/file/d/1e8-251m1uYg9XmfTbFo-dGcaQ4bnZY1K/view?usp=sharing" width="100" height="50"/></a>
+<a href="https://www.facebook.com/vuvanduy1311"><img src="https://drive.google.com/file/d/1e8-251m1uYg9XmfTbFo-dGcaQ4bnZY1K/view" width="100" height="50"/></a>
 <a href="https://www.linkedin.com/in/cameron-thompson96"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:camthomp96@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
