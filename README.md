@@ -30,7 +30,7 @@
 <p align="center">
 <a href="https://www.facebook.com/vuvanduy1311"><img src="https://nutrientsmdvn.com/image/catalog/nutrient/facebook.png" width="100" height="50"/></a>
 <a href="https://www.linkedin.com/in/cameron-thompson96"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/ width="100" height="50" ></a>
-<a href="mailto:vu.van.duy239@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/ width="100" height="50" ></a>
+<a href="mailto:vu.van.duy239@gamil.com"><img src="https://cdn.tgdd.vn/Files/2020/05/16/1255811/huong-dan-cach-tao-chu-ky-gmail-tren-dien-thoai-va-17.jpg"/ width="100" height="50" ></a>
 
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
